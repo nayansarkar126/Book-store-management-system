@@ -1,7 +1,7 @@
 # Software
 VS Code
 
-#Language
+# Language
 (HTML, CSS, PHP)
 
 # About
