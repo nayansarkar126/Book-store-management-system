@@ -1,3 +1,5 @@
+# Project About
+
 # Software
 - VS Code 
 - XAMPP
@@ -7,7 +9,20 @@ Front end: HTML, CSS, PHP.
 Back end: MySQL.
 XAMPP: In this system, MySQL database is used. So XAMPP must be needed to run the system properly.
 
-# Project About
+
+The main objective of the Online Book Store is to manage the details of Books, Customer, Payment, Delivery, Bills. It manages all the information about Books, Stock, Bills, Books.
+
+(i)Attractive premises, well maintained, in a good position.
+
+(ii)A carefully curated mix of the right books to appeal to the local clientele.
+
+(iii)Effective stock management to ensure the most profitable use of shelf space.
+
+(iv)Efficient service to customers by motivated, happy and well-informed staff.
+
+(v)Strong administration and financial management skills.
+
+
 Executive Summary:
 -	Introduction.
 -	Requirement Specifications.
