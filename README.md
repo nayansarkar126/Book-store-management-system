@@ -45,10 +45,10 @@ Executive Summary:
 # Hardware Used:
 The hardware components of a computer system refer to the physical part that makes up the computer system.
 For an effective operation, the system can be implemented provided the following hardware components.
-Processor: core i3 10th gen
-RAM: 16GB
-ROM: 128GB
-Operating System: Windows 10.
+- Processor: core i3 10th gen
+- RAM: 16GB
+- ROM: 128GB
+- Operating System: Windows 10.
 
 
 # Our About
