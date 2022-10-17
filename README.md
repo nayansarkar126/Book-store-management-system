@@ -1,8 +1,11 @@
 # Software
-VS Code
+- VS Code 
+- XAMPP
 
 # Language
-(HTML, CSS, PHP)
+Front end: HTML, CSS, PHP.
+Back end: MySQL.
+XAMPP: In this system, MySQL database is used. So XAMPP must be needed to run the system properly.
 
 # Project About
 Executive Summary:
@@ -37,7 +40,15 @@ Executive Summary:
 -	User login page (sign up, sign in).
 -	Gallery page.
 -	Order page.
--	Review page. 
+-	Review page.
+
+# Hardware Used:
+The hardware components of a computer system refer to the physical part that makes up the computer system.
+For an effective operation, the system can be implemented provided the following hardware components.
+Processor: core i3 10th gen
+RAM: 16GB
+ROM: 128GB
+Operating System: Windows 10.
 
 
 # Our About
