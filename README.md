@@ -26,6 +26,17 @@ Executive Summary:
 3. Customer signup.
 4. Books.
 5. Order.
+# System overview:
+	Home Page.
+	About website.
+	Admin panel.
+	Admin login page.
+	Insert, Show, Update, Delete.
+	User page.
+	User login page (sign up, sign in).
+	Gallery page.
+	Order page.
+	Review page. 
 
 
 # Our About
