@@ -5,11 +5,11 @@
 - XAMPP
 
 # Language
-Front end: HTML, CSS, PHP.
-Back end: MySQL.
-XAMPP: In this system, MySQL database is used. So XAMPP must be needed to run the system properly.
+- Front end: HTML, CSS, PHP.
+- Back end: MySQL.
+- XAMPP: In this system, MySQL database is used. So XAMPP must be needed to run the system properly.
 
-
+# Introduction
 The main objective of the Online Book Store is to manage the details of Books, Customer, Payment, Delivery, Bills. It manages all the information about Books, Stock, Bills, Books.
 
 - Attractive premises, well maintained, in a good position.
