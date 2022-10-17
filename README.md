@@ -29,13 +29,6 @@ The main objective of the Online Book Store is to manage the details of Books, C
 4. Sequence diagram.
 5. E-R diagram.
 
-# List of Tables:
-1. Admin login.
-2. sign in.
-3. Customer signup.
-4. Books.
-5. Order.
-
 # System overview:
 -	Home Page.
 -	About website.
