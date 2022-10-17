@@ -5,6 +5,28 @@ VS Code
 (HTML, CSS, PHP)
 
 # Project About
+Executive Summary:
+-	Introduction.
+-	Requirement Specifications.
+-	Architecture. 
+-	Design. 
+-	Acknowledgment.  
+-	References.
+
+# List of Figures:
+1. Use case diagram.
+2. Activity Diagram.
+3. Class diagram.
+4. Sequence diagram.
+5. E-R diagram.
+
+# List of Tables:
+1. Admin login.
+2. sign in.
+3. Customer signup.
+4. Books.
+5. Order.
+
 
 # Our About
 Name: Nayan Sarkar
